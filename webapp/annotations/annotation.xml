@@ -16,6 +16,13 @@
                     </Collection>
                 </Annotation>
             </Annotations>
+            <Annotations Target="NorthwindModel.Supplier">
+                <Annotation Term="UI.SelectionFields">
+                    <Collection>
+                        <PropertyPath>SupplierID</PropertyPath>
+                    </Collection>
+                </Annotation>
+            </Annotations>
         </Schema>
     </edmx:DataServices>
 </edmx:Edmx>
