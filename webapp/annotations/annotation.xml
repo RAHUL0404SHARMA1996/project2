@@ -20,7 +20,8 @@
                 <Annotation Term="UI.SelectionFields">
                     <Collection>
                         <PropertyPath>SupplierID</PropertyPath>
-                         <PropertyPath>Region</PropertyPath>
+                        <PropertyPath>Region</PropertyPath>
+                        <PropertyPath>Country</PropertyPath>
                     </Collection>
                 </Annotation>
             </Annotations>
